@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧩 MCM Data Pipeline Pro
 
 A high-performance visualization suite for the **Matrix Chain Multiplication (MCM)** problem. This project treats MCM as a real-world data science pipeline—from data collection and preprocessing to optimal execution and benchmarking.
@@ -11,12 +12,14 @@ A high-performance visualization suite for the **Matrix Chain Multiplication (MC
 - **🎓 Viva & Theory:** Built-in LaTeX recurrence relations and interview Q&A.
 
 ## 🛠️ Project Structure
+## 🛠️ Project Structure
+
 ```text
 MCM_Optimizer/
 │
-├── app.py                # Main Streamlit application
-├── README.md             # Project documentation
+├── app.py                 # Main Streamlit application
+├── README.md              # Project documentation
 └── src/
-    ├── __init__.py       
-    ├── mcm_logic.py      # Core DP & Recursive algorithms
-    └── data_handler.py   # Data cleaning logic
+    ├── __init__.py
+    ├── mcm_logic.py       # Core DP & Recursive algorithms
+    └── data_handler.py    # Data cleaning logic
